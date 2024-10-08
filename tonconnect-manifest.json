@@ -1,6 +1,7 @@
 {
     "url": "https://ce39-109-126-175-79.ngrok-free.app",                        
     "name": "Pinguin",                      
-    "iconUrl": "/Users/faygo1337/Desktop/tgApp/apptgclicker/src/components/BackpackPNG.png"
+    "iconUrl": "/Users/faygo1337/Desktop/tgApp/apptgclicker/src/components/BackpackPNG.png",
+    "orientation": "portrait"
   }
   
